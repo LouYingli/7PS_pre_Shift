@@ -1,0 +1,12 @@
+1,PrimarySchoolHtgSetpDefault,PrimarySchoolHtgSetpDefault,-3.0,3.0
+2,PrimarySchoolClgSetpDefault,PrimarySchoolClgSetpDefault,-3.0,3.0
+3,PrimarySchoolBldgEquipDefault,PrimarySchoolBldgEquipDefault,-3.0,3.0
+4,PrimarySchoolBldgEquipSummerDesignDay,PrimarySchoolBldgEquipSummerDesignDay,-3.0,3.0
+5,PrimarySchoolBldgEquipWkdyDay,PrimarySchoolBldgEquipWkdyDay,-3.0,3.0
+6,PrimarySchoolBldgEquipWkdyDay1,PrimarySchoolBldgEquipWkdyDay1,-3.0,3.0
+7,PrimarySchoolBldgLightDefault,PrimarySchoolBldgLightDefault,-3.0,3.0
+8,PrimarySchoolBldgLightSummerDesignDay,PrimarySchoolBldgLightSummerDesignDay,-3.0,3.0
+9,PrimarySchoolBldgOccDefault,PrimarySchoolBldgOccDefault,-3.0,3.0
+10,PrimarySchoolBldgOccSummerDesignDay,PrimarySchoolBldgOccSummerDesignDay,-3.0,3.0
+11,SchoolPrimaryBLDG_SWH_SCHDefault,SchoolPrimaryBLDG_SWH_SCHDefault,-3.0,3.0
+12,SchoolPrimaryBLDG_SWH_SCHSummerDesignDay,SchoolPrimaryBLDG_SWH_SCHSummerDesignDay,-3.0,3.0
